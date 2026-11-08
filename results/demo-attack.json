@@ -1,0 +1,19 @@
+{
+  "score": 12,
+  "verdict": "block",
+  "hits": [
+    {
+      "pattern": "ignore_instructions",
+      "weight": 5
+    },
+    {
+      "pattern": "system_override",
+      "weight": 3
+    },
+    {
+      "pattern": "reveal_secret",
+      "weight": 4
+    }
+  ],
+  "length": 62
+}
